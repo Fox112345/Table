@@ -1,0 +1,15 @@
+.pages {
+    margin: 20px;
+}
+
+.page-item {
+    border: 1px solid black;
+    border-radius: 100%;
+    cursor: pointer;
+    padding: 5px 10px;
+    margin: 0 10px;
+}
+
+.active {
+    background-color: aqua;
+}
